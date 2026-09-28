@@ -11,7 +11,7 @@ Advance EDA on flight data using python, pandas and seaborn
 3. **Distance & Time:** There is a close relationship between flight distance and flight time('air_time').
 ---
 ## Air Traffic Volume Across Flight Distances
-<img width="868" height="853" alt="download" src="https://github.com/user-attachments/assets/bbe7e464-2518-41c7-92d3-4f8c37b73081" />
+<img width="668" height="653" alt="download" src="https://github.com/user-attachments/assets/bbe7e464-2518-41c7-92d3-4f8c37b73081" />
 
 ## Correlation Matrix of Key Flight Features
 <img width="614" height="535" alt="download" src="https://github.com/user-attachments/assets/077f961b-8295-48c7-8e38-b5ec1cb8e6e0" />
