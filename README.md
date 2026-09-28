@@ -28,8 +28,9 @@ To run this notebook, follow these steps:
 1. Clone the repository:
 ```bash
    git clone [https://github.com/nikipanahi/airline-traffic-analysis.git](https://github.com/nikipanahi/airline-traffic-analysis.git)
-
+```
 2. Install the required dependencies:
 ```bash
     pip install pandas numpy matplotlib seaborn
+```
 3. Open and run the Jupyter Notebook (.ipynb).
