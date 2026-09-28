@@ -1,4 +1,4 @@
-# airline-traffic-analysis
+# Airline Traffic Analysis
 Advance EDA on flight data using python, pandas and seaborn
 ## Tools & Libraries 
 * **python**
