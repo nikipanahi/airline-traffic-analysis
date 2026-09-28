@@ -10,6 +10,7 @@ Advance EDA on flight data using python, pandas and seaborn
 2. **Air Traffic:** By using Bubble charts, high-speed airlines and flight volume identified.
 3. **Distance & Time:** There is a close relationship between flight distance and flight time('air_time').
 ---
+## Sample Visualizations
 ## Air Traffic Volume Across Flight Distances
 <img width="668" height="653" alt="download" src="https://github.com/user-attachments/assets/bbe7e464-2518-41c7-92d3-4f8c37b73081" />
 
