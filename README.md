@@ -6,7 +6,7 @@ Advance EDA on flight data using python, pandas and seaborn
 * **Matplotlib & Seaborn** (Advanced data visualization)
 ---
 ## Key Insights
-1. **Delays:** ('dep_delay') Delay: An analysis of correlation revealed that departure delay is directly related to arrival delay ('arr_delay').
+1. **Delays:** ('dep_delay') An analysis of correlation revealed that departure delay is directly related to arrival delay ('arr_delay').
 2. **Air Traffic:** By using Bubble charts, high-speed airlines and flight volume identified.
 3. **Distance & Time:** There is a close relationship between flight distance and flight time('air_time').
 ---
