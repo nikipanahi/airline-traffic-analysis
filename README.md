@@ -1,13 +1,13 @@
 # airline-traffic-analysis
 Advance EDA on flight data using python, pandas and seaborn
 ## Tools $ Libraries 
-* ** python**
+* **python**
 * **Pandas & Numpy** (Data management and cleaning)
-* ** Matplotlib & Seaborn** (Advanced data visualization)
+* **Matplotlib & Seaborn** (Advanced data visualization)
 ---
 ## Key Insights
-1. **('dep_delay') Delay: An analysis of correlation revealed that departure delay is directly related to arrival delay ('arr_delay')
-2. ** Air Traffic: By using Bubble charts, high-speed airlines and flight volume identified.
+1.* **('dep_delay') Delay: An analysis of correlation revealed that departure delay is directly related to arrival delay ('arr_delay')
+2. **Air Traffic: By using Bubble charts, high-speed airlines and flight volume identified.
 3. ** There is a close relationship between flight distance and flight time('air_time')
 ---
 ## Air Traffic Volume Across Flight Distances
