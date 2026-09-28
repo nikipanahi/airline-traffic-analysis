@@ -15,6 +15,9 @@ Advance EDA on flight data using python, pandas and seaborn
 
 ## Correlation Matrix of Key Flight Features
 <img width="614" height="535" alt="download" src="https://github.com/user-attachments/assets/077f961b-8295-48c7-8e38-b5ec1cb8e6e0" />
+
 ---
+
 ## Dataset Source
+
 https://www.kaggle.com/datasets/mahoora00135/flights?resource=download
